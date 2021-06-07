@@ -14,3 +14,5 @@ Bandit3 password : UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 Bandit4 password : pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 
 Bandit5 password : koReBOKuIDDepwhWk7jZC0RTdopnAYKh    (-- marks end of options in bash, so : cat -- -file00 )
+
+Bandit6 password : DXjZPULLxYr17uwoI01bNLQbtFemEgo7    (find . -size 1033c    , then using cat to read that 1 file)
