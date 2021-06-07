@@ -9,4 +9,4 @@ Bandit1 password : boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
 Bandit2 password : CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 
-Bandit3 password : CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+Bandit3 password : UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
